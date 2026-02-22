@@ -1,3 +1,7 @@
 # Practice-Projects 🧠
-These are practice projects I used to build my algorithmic thinking.
-\n I'm open to improvements if anyone's willing to suggest them.
+
+## Introduction
+Hello to the rare person who's visiting this GitHub repository. This repository is an archive of all the practice projects I built to upskill in Python. Feel free to copy my code or attempt the projects yourself (even though most of them have no practical use)
+
+##List of Projects
+- Look and Say Pyramid
