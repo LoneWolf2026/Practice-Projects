@@ -5,3 +5,4 @@ Hello to the rare person who's visiting this GitHub repository. This repository 
 
 ## List of Projects
 - [Look and Say Pyramid](https://github.com/LoneWolf2026/Practice-Projects/tree/main/Look%20and%20Say%20Sequence)
+- [Weight Table Generator](https://github.com/LoneWolf2026/Practice-Projects/tree/main/Weight_Table_Generator)
